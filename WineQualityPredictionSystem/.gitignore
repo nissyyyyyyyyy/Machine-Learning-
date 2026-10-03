@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Project outputs (regenerated automatically - no need to version them)
+models/*.pkl
+plots/*.png
+
+# VSCode
+.vscode/
